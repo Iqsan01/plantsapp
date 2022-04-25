@@ -12,8 +12,6 @@ class CategoryList extends StatelessWidget {
         StreamBuilder<QuerySnapshot>(
           stream: Content.readItems(),
           builder: (context, snapshot) {
-            List<QuerySnapshot> list = [];
-            print("Halo ${snapshot.data}");
             if (snapshot.hasError) {
               return Text('Something went wrong');
             } else if (snapshot.hasData || snapshot.data != null) {
