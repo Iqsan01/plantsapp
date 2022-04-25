@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1035356760564",
+    "project_id": "mammiriindonesia-9881b",
+    "storage_bucket": "mammiriindonesia-9881b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035356760564:android:5c8a4ae600fd783b62b1a1",
+        "android_client_info": {
+          "package_name": "com.inheritance.plantapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035356760564-8bl8pcibfqujf84ug6s5cts0mjntfnog.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUXxC4C51vytdE5eLaseUY1ndi2DQsRio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035356760564-8bl8pcibfqujf84ug6s5cts0mjntfnog.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
